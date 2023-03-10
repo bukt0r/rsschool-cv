@@ -5,7 +5,7 @@
 * **Telegram:** [@vufimtsev](https://t.me/vufimtsev)
 * **GitHub:** [@bukt0r](https://github.com/bukt0r)
 ### About me:
-I am honest, responsible and friendly. My strengths are stress resistance, the ability to work in a team and find a common language with people. Work experience is absent. I like to study and get new skills.
+I am responsible and diligent. My strengths are discipline and the ability to work in a team. No work experience, but I like to learn and gain new skills.
 ### Skills:
 * HTML & CSS
   * BEM
